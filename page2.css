@@ -102,7 +102,7 @@ body {
     border-bottom: 2px solid silver;
 }
 .username-password-group input {
-    width: 100%;
+    width: 83%;
     padding: 0 20px;
     height: 30px;
     font-size: 15px;
@@ -145,8 +145,8 @@ body {
     text-decoration: underline;
 }
 input[type="submit"] {
-    width: 53%;
-    height: 40px;
+    width: 62%;
+    height: 70px;
     font-size: 18px ;
     border-radius: 25px;
     cursor: pointer;
